@@ -7,7 +7,7 @@ Original Dataset can be found at the following links:
 
 ## Overview
 
-In this project we will perform an analysis to see if we can find factors that might affect gross earnings. We will also explore the data and visualize any interesting findings and answer questions such as what genres are most profitable. We will also perform some statistical analysis such as finding correlations in the data set to hopefully support the analysis we perform. For instance, we might wonder if there is a strong correlation between the budget for a movie and the gross earnings. 
+In this project we will perform an analysis to see if we can find factors that might affect gross earnings. Firstly, we know that profits are the driving force behind making a movie, as such the crucial variables to center our analysis around would be the budget of the movie, the gross earnings of the movie and perhaps the score that the movie recieved. We will also explore the data and visualize any interesting findings and answer questions such as what genres are most profitable. We will also perform some statistical analysis such as finding correlations in the data set to hopefully support the analysis we perform. For instance, we might wonder if there is a strong correlation between the budget for a movie and the gross earnings. 
 
 ## Brief excerpt on findings
 
